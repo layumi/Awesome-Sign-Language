@@ -30,9 +30,9 @@ British English
 
 2281 Sign Classes by 39 Signers. 452K Samples
 
-## Translation (Multiple Signs)
+## Sign Language Translation (Multiple Signs)
 
-## Sign Classification 
+## Sign Language Recogntion (Single Sign)
 StepNet: Spatial-temporal Part-aware Network for Sign Language Recognition. arXiv 2022
 
 Signbert: Pre-training of hand-model-aware representation for sign language recognition. ICCV 2021
@@ -42,7 +42,6 @@ Global-local enhancement network for nmf-aware sign language recognition. ACM TO
 A deep neural framework for continuous sign language recognition by iterative training. TMM 2019
 
 Spatial temporal graph convolutional networks for skeleton-based action recognition. AAAI 2018
-
 
 ## Generation 
 Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. arXiv 2022
