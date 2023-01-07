@@ -3,7 +3,9 @@
 Why interesting? Language is abstractive and videos are dense, while sign language bridges ``low-level'' vision and ``high-level'' language. Eveyone could somehow understand sign language. 
 
 It is worth noting that different culture also raise difference. 
-For instance, Shaking heads mean ``Yes'' in India.  
+For instance, Shaking heads mean ``Yes'' in India. 
+
+![](https://media.tenor.com/yVzx92k7U9UAAAAC/no-yes.gif)
 
 ## Datasets 
 
