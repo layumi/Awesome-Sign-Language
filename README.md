@@ -1,5 +1,6 @@
 # Awesome-Sign-Language
-
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)   
+ 
 Why interesting? Language is abstractive and videos are dense, while sign language bridges ``low-level'' vision and ``high-level'' language. Eveyone could somehow understand sign language. 
 
 It is worth noting that different culture also raise difference. 
